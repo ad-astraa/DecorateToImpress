@@ -47,6 +47,7 @@ h1 {
   margin: 0;
   font-size: 1.2rem;
   color: #D9A0A8;
+  font-family: 'Barrio', cursive;
 }
 
 .decoration {
@@ -83,10 +84,11 @@ h1 {
 
 .footer-text {
   position: fixed;
-  bottom: 20px;
+  bottom: 10px;
   left: 20px;
   font-family: 'Barrio', cursive;
   font-size: 1.2rem;
   color: #D9A0A8;
   text-align: left;
+  z-index: 10;
 }
